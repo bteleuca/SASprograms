@@ -8,4 +8,7 @@
 <ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/List_Job(Job)</ContainObj>
 </ArchInfo>
 
+<ArchInfo Date="1552629785977" Description="version C" Name="List_Job" PackageName="List_Job.spk" UserID="sastest1@SASCLIENT" Version="cd1d149">
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/List_Job(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
