@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><ROOT>
 
 
-<ArchInfo Date="1554777051498" Description="version B" Name="List_Job" PackageName="List_Job.spk" UserID="sastest1@SASCLIENT" Version="2f05cc6">
-<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/List_Job(Job)</ContainObj>
-</ArchInfo>
+
 
 </ROOT>
