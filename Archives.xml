@@ -4,7 +4,5 @@
 <ArchInfo Date="1554777051498" Description="version B" Name="List_Job" PackageName="List_Job.spk" UserID="sastest1@SASCLIENT" Version="2f05cc6">
 <ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/List_Job(Job)</ContainObj>
 </ArchInfo>
-<ArchInfo Date="1557382507920" Description="version A" Name="List_Job" PackageName="List_Job.spk" UserID="sastest1@SASCLIENT" Version="f55e054">
-<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/List_Job(Job)</ContainObj>
-</ArchInfo>
+
 </ROOT>
