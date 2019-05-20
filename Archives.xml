@@ -13,4 +13,12 @@
 <ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs_1/List_Job(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs_1/SAS 9.4 to CAS(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1558332664269" Description="version A" Name="Archive DWH folders" PackageName="Archive DWH folders.spk" UserID="sastest1@SASCLIENT" Version="b1be8c0">
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs_1(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/List_Job(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs/SAS 9.4 to CAS(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs_1/List_Job(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/gelcontent/jobs_1/SAS 9.4 to CAS(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
