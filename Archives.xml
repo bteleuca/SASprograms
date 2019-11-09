@@ -24,4 +24,7 @@
 <ArchInfo Date="1573342129172" Description="version A" Name="List_Job" PackageName="List_Job.spk" UserID="sasadm@saspw" Version="b9bc79d">
 <ContainObj>SBIP://METASERVER/Data Governance/Jobs/List_Job(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1573342204393" Description="version B" Name="List_Job" PackageName="List_Job.spk" UserID="sasadm@saspw" Version="af20700">
+<ContainObj>SBIP://METASERVER/Data Governance/Jobs/List_Job(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
