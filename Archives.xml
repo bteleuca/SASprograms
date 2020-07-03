@@ -25,4 +25,7 @@
 <ContainObj>SBIP://METASERVER/Data Governance/Jobs/List_Job(Job)</ContainObj>
 </ArchInfo>
 
+<ArchInfo Date="1593793792084" Description="test description&#10;" Name="test" PackageName="test.spk" UserID="sastest1@SASCLIENT" Version="360e087">
+<ContainObj>SBIP://METASERVER/Data Governance/Jobs/Access Amazon S3 data(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
