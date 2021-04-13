@@ -31,4 +31,7 @@
 <ArchInfo Date="1618304169808" Description="" Name="Job1" PackageName="Job1.spk" UserID="sasdemo@SASCLIENT" Version="9d91906">
 <ContainObj>SBIP://METASERVER/Friselva/Job1(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1618304278954" Description="" Name="Job1_Nosummary" PackageName="Job1_Nosummary.spk" UserID="sasdemo@SASCLIENT" Version="88881ec">
+<ContainObj>SBIP://METASERVER/Friselva/Job1(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
